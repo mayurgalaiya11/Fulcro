@@ -582,9 +582,9 @@ Mobile Media query
     }
 
     .explr-img img {
-        height: 318px;
-        width: 321px;
-    }
+    height: 318px;
+    width: 100%;
+}
 
     .cta {
         padding: 100px 20px 50px;
